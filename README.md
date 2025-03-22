@@ -2,11 +2,11 @@
 
 Registered Pharmacist | Aspiring Data Scientist
 
-## 📚 **Background:**  
+## 📚 **Background**  
 With a solid foundation in pharmacy, I'm diving deeper into data science to innovate and contribute to the healthcare industry using modern data tools.
 Current Master's student in Data Science at University Teknologi Malaysia.
 
-## 🧰 **Languages & Tools:**  
+## 🧰 **Languages & Tools**  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -19,6 +19,6 @@ Current Master's student in Data Science at University Teknologi Malaysia.
 
 ###
 
-## 📫 How to reach me: 
+## 📫 How to reach me 
 - Drop me an [Email](mailto:henrylock.ch2@gmail.com)
 - Connect with me on [LinkedIn](https://linkedin.com/in/lock-chun-hern-868506260/)
