@@ -1,6 +1,5 @@
 ## Hi, I am Lock Chun Hern👋
 
-## 📚 **Background**  
 With a solid foundation in pharmacy, I'm diving deeper into data science to innovate and contribute to the healthcare industry using modern data tools.
 Current Master's student in Data Science at University Teknologi Malaysia.
 
