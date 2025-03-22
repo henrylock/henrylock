@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I am Lock Chun Hern👋
 
-<!--
-**henrylock/henrylock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Registered Pharmacist | Aspiring Data Scientist
 
-Here are some ideas to get you started:
+## 📚 **Background:**  
+With a solid foundation in pharmacy, I'm diving deeper into data science to innovate and contribute to the healthcare industry using modern data tools.
+Current Master's student in Data Science at University Teknologi Malaysia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 **Languages & Tools:**  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+</div>
+
+###
+
+## 📫 How to reach me: 
+- Drop me an [Email](mailto:henrylock.ch2@gmail.com)
+- Connect with me on [LinkedIn](https://linkedin.com/in/lock-chun-hern-868506260/)
