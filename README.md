@@ -1,6 +1,6 @@
 # Hi, I'm Lock Chun Hern 👋
 
-**Data Analyst | Pharmacist | Master's in Data Science | Healthcare Analytics**
+**Data Analyst | Pharmacist | Master in Data Science | Healthcare Analytics**
 
 I'm a data analyst with a background in healthcare as a pharmacist and a growing specialization in **data science and analytics**.
 
@@ -33,27 +33,27 @@ Python · SQL · GitHub · Google Colab · Jupyter Notebook · AWS · VS Code ·
 
 ## 📊 Featured Projects
 
-### 💊 Sentiment Analysis & Topic Modelling of GLP-1 RAs on Social Media
+### 💊 [Sentiment Analysis & Topic Modelling of GLP-1 RAs on Social Media](https://github.com/henrylock/Sentiment-Analysis-and-Topic-Modeling-of-GLP-1-RAs-on-Social-Media)
 
 Applied natural language processing and machine learning to analyze **560,000 social media comments and posts** from Reddit and YouTube, uncovering insights into public sentiment and emerging topics surrounding **GLP-1 receptor agonists**.
 
-**Focus:** NLP · Machine Learning · Sentiment Analysis · Topic Modelling · Healthcare Analytics 
+**Focus:** NLP · Machine Learning · Sentiment Analysis · Topic Modelling · Healthcare Analytics · Power BI
 
 ---
 
-### 💳 Credit Card Customer Segmentation
+### 💳 [Credit Card Customer Segmentation](https://github.com/henrylock/Credit-Card-Customer-Segmentation-via-Unsupervised-Learning)
 
 Utilized unsupervised learning to group credit card customers based on their behavioural and financial characteristics, supporting targeted customer strategies and business decision-making.
 
-**Focus:** Python · Unsupervised Learning · Customer Analytics
+**Focus:** Python · Unsupervised Learning · K-Means · Hierarchical Agglomerative Clustering · Marketing Analytics
 
 ---
 
-### 🛒 Amazon Strategic Business Intelligence Analysis
+### 🛒 [Amazon Strategic Business Intelligence Analysis](https://github.com/henrylock/Amazon-Business-Intelligence-Analysis)
 
 Built interactive dashboards to analyze **product performance, financial health, supply chain distribution, and competitive positioning** in the e-commerce market.
 
-**Focus:** SQL · Power BI · Business Analytics
+**Focus:** SQL · Power BI · DAX · Business Analytics
 
 ---
 
