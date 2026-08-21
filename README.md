@@ -60,9 +60,11 @@ Built interactive dashboards to analyze **product performance, financial health,
 ## 🎓 Education
 
 **Master in Data Science**
+
 Universiti Teknologi Malaysia (UTM)
 
 **Bachelor of Pharmacy (Honours)**
+
 Monash University Malaysia
 
 ---
