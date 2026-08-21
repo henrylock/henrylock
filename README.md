@@ -6,7 +6,7 @@ I'm a data analyst with a background in healthcare as a pharmacist and a growing
 
 I combine healthcare domain knowledge with data-driven methods to uncover insights from complex healthcare and business datasets.
 
-Recently completed a **Master's in Data Science at Universiti Teknologi Malaysia (UTM)**, with hands-on experience in data analytics, machine learning, natural language processing, SQL, supply chain analytics, and business intelligence.
+Recently completed a **Master in Data Science at Universiti Teknologi Malaysia (UTM)**, with hands-on experience in data analytics, machine learning, natural language processing, SQL, supply chain analytics, and business intelligence.
 
 I'm particularly interested in applying data to healthcare, pharmaceuticals, commercial analytics, marketing analytics, and business decision-making.
 
